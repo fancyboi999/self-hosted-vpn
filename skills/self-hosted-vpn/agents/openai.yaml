@@ -1,0 +1,6 @@
+interface:
+  display_name: "Self-Hosted VPN"
+  short_description: "在海外 VPS 上部署、配置无域名 HTTPS 订阅或排查自建 VPN 节点"
+  default_prompt: "Use $self-hosted-vpn to provision, configure subscriptions for, or diagnose this self-hosted VPN node."
+policy:
+  allow_implicit_invocation: false
